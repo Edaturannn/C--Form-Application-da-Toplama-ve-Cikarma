@@ -1,0 +1,15 @@
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\bin\Debug\netcoreapp3.1\Ders15.exe
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\bin\Debug\netcoreapp3.1\Ders15.deps.json
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\bin\Debug\netcoreapp3.1\Ders15.runtimeconfig.json
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\bin\Debug\netcoreapp3.1\Ders15.runtimeconfig.dev.json
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\bin\Debug\netcoreapp3.1\Ders15.dll
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\bin\Debug\netcoreapp3.1\Ders15.pdb
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.Form1.resources
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.csproj.GenerateResource.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.AssemblyInfoInputs.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.AssemblyInfo.cs
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.csproj.CoreCompileInputs.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.dll
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.pdb
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders15\Ders15\obj\Debug\netcoreapp3.1\Ders15.genruntimeconfig.cache
